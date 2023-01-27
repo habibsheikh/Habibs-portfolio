@@ -31,3 +31,6 @@ NumPy and Pandas libraries
 4. Exploratory Data Visualisation –
 • A quick and basic project demonstrating my Data Visualisation
 skills
+
+5. Finding Heavy Traffic Indicators on I-94 Interstate Highway - 
+• In this project I have analysed the traffic conditions of USA's I-94 Interstate Highway. My findings were visualised in the form of relational Scatter plots and histograms.
